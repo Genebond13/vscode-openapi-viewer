@@ -1,4 +1,4 @@
-name: VsixPackage
+.github/workflows/vsix-package.yamlname: VsixPackage
 
 on:
   push:
